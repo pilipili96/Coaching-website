@@ -1,0 +1,56 @@
+body {
+    background-image: url(background.jpg);
+}
+
+footer{
+    color:hsl(27, 100%, 50%);
+}
+footer a{
+    color:hsl(27, 100%, 50%);
+}
+.achievement {
+    list-style:none;
+    text-align:left;
+}
+.achievement a{
+    color:rgb(200, 255, 0);
+   
+}
+
+h4{
+    font-family: sans;
+    color: #F8F0E3;
+    font-size:35px;
+}
+.description{
+    font-family: sans;
+    color: rgb(227, 241, 247);
+    font-size: 22px;
+    text-indent: 25px;
+    text-align:left;
+}
+
+.link{
+    color:rgb(255, 196, 0);
+}
+.page-title{
+    font-weight:bold;
+    font-family: sans;
+    color: rgba(227, 229, 247, 0.965);
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+    text-decoration-thickness: 4px;
+    font-size: 37px;
+   
+}
+.content{
+    max-width:875px;
+    padding: 10px 25px;
+    text-align:center
+}
+.video {
+    padding-top: 15px;
+    width: 49%;
+    height: 350px;
+    min-width: 300px;
+}
